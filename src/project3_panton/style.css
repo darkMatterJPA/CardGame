@@ -1,0 +1,295 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 18, 2017, 10:26:26 AM
+    Author     : Dark Nebula
+*/
+
+.background{
+    -fx-background-image: url("images/background.jpg");
+    
+}
+.background2{
+    -fx-background-image: url("images/background2.jpg");
+    
+}
+.background3{
+    -fx-background-image: url("images/background3.jpg");
+    
+}
+
+.card-back{
+    -fx-graphic: url("images/cardBack.jpg");
+    -fx-background-color:transparent;
+}
+
+/* Spadess */
+.Spades-ace{
+    -fx-background-image: url("images/ace_of_spades2.jpg");
+    -fx-background-color:transparent;
+}
+
+.Spades-2{
+    -fx-background-image: url("images/2_of_spades.jpg");
+    -fx-background-color:transparent;
+}
+
+.Spades-3{
+    -fx-background-image: url("images/3_of_spades.jpg");
+    -fx-background-color:transparent;
+}
+
+.Spades-4{
+    -fx-background-image: url("images/4_of_spades.jpg");
+    -fx-background-color:transparent;
+}
+
+.Spades-5{
+    -fx-background-image: url("images/5_of_spades.jpg");
+    -fx-background-color:transparent;
+}
+
+.Spades-6{
+    -fx-background-image: url("images/6_of_spades.jpg");
+    -fx-background-color:transparent;
+}
+
+.Spades-7{
+    -fx-background-image: url("images/7_of_spades.jpg");
+    -fx-background-color:transparent;
+}
+
+.Spades-8{
+    -fx-background-image: url("images/8_of_spades.jpg");
+    -fx-background-color:transparent;
+}
+
+.Spades-9{
+    -fx-background-image: url("images/9_of_spades.jpg");
+    -fx-background-color:transparent;
+}
+
+.Spades-10{
+    -fx-background-image: url("images/10_of_spades.jpg");
+    -fx-background-color:transparent;
+}
+
+.Spades-Jack{
+    -fx-background-image: url("images/jack_of_spades2.jpg");
+    -fx-background-color:transparent;
+}
+
+.Spades-Queen{
+    -fx-background-image: url("images/queen_of_spades2.jpg");
+    -fx-background-color:transparent;
+}
+
+.Spades-King{
+    -fx-background-image: url("images/king_of_spades2.jpg");
+    -fx-background-color:transparent;
+}
+
+/* Hearts */
+
+.Hearts-ace{
+    -fx-background-image: url("images/ace_of_hearts.jpg");
+    -fx-background-color:transparent;
+}
+
+.Hearts-2{
+    -fx-background-image: url("images/2_of_hearts.jpg");
+    -fx-background-color:transparent;
+}
+
+.Hearts-3{
+    -fx-background-image: url("images/3_of_hearts.jpg");
+    -fx-background-color:transparent;
+}
+
+.Hearts-4{
+    -fx-background-image: url("images/4_of_hearts.jpg");
+    -fx-background-color:transparent;
+}
+
+.Hearts-5{
+    -fx-background-image: url("images/5_of_hearts.jpg");
+    -fx-background-color:transparent;
+}
+
+.Hearts-6{
+    -fx-background-image: url("images/6_of_hearts.jpg");
+    -fx-background-color:transparent;
+}
+
+.Hearts-7{
+    -fx-background-image: url("images/7_of_hearts.jpg");
+    -fx-background-color:transparent;
+}
+
+.Hearts-8{
+    -fx-background-image: url("images/8_of_hearts.jpg");
+    -fx-background-color:transparent;
+}
+
+.Hearts-9{
+    -fx-background-image: url("images/9_of_hearts.jpg");
+    -fx-background-color:transparent;
+}
+
+.Hearts-10{
+    -fx-background-image: url("images/10_of_hearts.jpg");
+    -fx-background-color:transparent;
+}
+
+.Hearts-Jack{
+    -fx-background-image: url("images/jack_of_hearts2.jpg");
+    -fx-background-color:transparent;
+}
+
+.Hearts-Queen{
+    -fx-background-image: url("images/queen_of_hearts2.jpg");
+    -fx-background-color:transparent;
+}
+
+.Hearts-King{
+    -fx-background-image: url("images/king_of_hearts2.jpg");
+    -fx-background-color:transparent;
+}
+
+/* dimonds */
+
+.Diamonds-ace{
+    -fx-background-image: url("images/ace_of_diamonds.jpg");
+    -fx-background-color:transparent;
+}
+
+.Diamonds-2{
+    -fx-background-image: url("images/2_of_diamonds.jpg");
+    -fx-background-color:transparent;
+}
+
+.Diamonds-3{
+    -fx-background-image: url("images/3_of_diamonds.jpg");
+    -fx-background-color:transparent;
+}
+
+.Diamonds-4{
+    -fx-background-image: url("images/4_of_diamonds.jpg");
+    -fx-background-color:transparent;
+}
+
+.Diamonds-5{
+    -fx-background-image: url("images/5_of_diamonds.jpg");
+    -fx-background-color:transparent;
+}
+
+.Diamonds-6{
+    -fx-background-image: url("images/6_of_diamonds.jpg");
+    -fx-background-color:transparent;
+}
+
+.Diamonds-7{
+    -fx-background-image: url("images/7_of_diamonds.jpg");
+    -fx-background-color:transparent;
+}
+
+.Diamonds-8{
+    -fx-background-image: url("images/8_of_diamonds.jpg");
+    -fx-background-color:transparent;
+}
+
+.Diamonds-9{
+    -fx-background-image: url("images/9_of_diamonds.jpg");
+    -fx-background-color:transparent;
+}
+
+.Diamonds-10{
+    -fx-background-image: url("images/10_of_diamonds.jpg");
+    -fx-background-color:transparent;
+}
+
+.Diamonds-Jack{
+    -fx-background-image: url("images/jack_of_diamonds2.jpg");
+    -fx-background-color:transparent;
+}
+
+.Diamonds-Queen{
+    -fx-background-image: url("images/queen_of_diamonds2.jpg");
+    -fx-background-color:transparent;
+}
+
+.Diamonds-King{
+    -fx-background-image: url("images/king_of_diamonds2.jpg");
+    -fx-background-color:transparent;
+}
+
+.Clubs-ace{
+    -fx-background-image: url("images/ace_of_clubs.jpg");
+    -fx-background-color:transparent;
+}
+
+.Clubs-2{
+    -fx-background-image: url("images/2_of_clubs.jpg");
+    -fx-background-color:transparent;
+}
+
+.Clubs-3{
+    -fx-background-image: url("images/3_of_clubs.jpg");
+    -fx-background-color:transparent;
+}
+
+.Clubs-4{
+    -fx-background-image: url("images/4_of_clubs.jpg");
+    -fx-background-color:transparent;
+}
+
+.Clubs-5{
+    -fx-background-image: url("images/5_of_clubs.jpg");
+    -fx-background-color:transparent;
+}
+
+.Clubs-6{
+    -fx-background-image: url("images/6_of_clubs.jpg");
+    -fx-background-color:transparent;
+}
+
+.Clubs-7{
+    -fx-background-image: url("images/7_of_clubs.jpg");
+    -fx-background-color:transparent;
+}
+
+.Clubs-8{
+    -fx-background-image: url("images/8_of_clubs.jpg");
+    -fx-background-color:transparent;
+}
+
+.Clubs-9{
+    -fx-background-image: url("images/9_of_clubs.jpg");
+    -fx-background-color:transparent;
+}
+
+.Clubs-10{
+    -fx-background-image: url("images/10_of_clubs.jpg");
+    -fx-background-color:transparent;
+    
+  
+}
+
+.Clubs-Jack{
+    -fx-background-image: url("images/jack_of_clubs2.jpg");
+    -fx-background-color:transparent;
+}
+
+.Clubs-Queen{
+    -fx-background-image: url("images/queen_of_clubs2.jpg");
+    -fx-background-color:transparent;
+}
+
+.Clubs-King{
+    -fx-background-image: url("images/king_of_clubs2.jpg");
+    -fx-background-color:transparent;
+}
+
